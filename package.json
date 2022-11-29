@@ -1,0 +1,21 @@
+{
+  "name": "proyecto-node",
+  "version": "0.0.1",
+  "description": "Proyecto de Node JS simulando un CRUD",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "note",
+    "js",
+    "javascript",
+    "crud"
+  ],
+  "author": "Evelin Moreno",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
